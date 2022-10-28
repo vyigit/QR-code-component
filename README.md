@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-![image](https://user-images.githubusercontent.com/93486581/198685305-0fc05ac0-ff4c-41d8-9626-b27c3b51a396.png)
+![image](https://user-images.githubusercontent.com/93486581/198685950-e191580c-c44d-4c0a-8c1d-bd717180dc3d.png)
 
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
